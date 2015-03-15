@@ -1,4 +1,9 @@
 List of countries:
 
 * Denmark
-* ...
+* Spain
+* Viet Nam
+* Thailand
+* Korea
+* Guatemala
+* Japan
