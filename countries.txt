@@ -1,10 +1,9 @@
 List of countries:
 
 * Denmark
-* SPAIN
+* Spain
 * Vietnam
-<<<<<<< gp-25
 * Guatemala!
-=======
-* Guatemala
->>>>>>> local
+
+
+
